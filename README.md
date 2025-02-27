@@ -1,5 +1,5 @@
-<h1 align="center"> Analyzing Vocal Features for Improved Machine Learning-Based Gender Identification </h1>
-<p align="center">
+<h1> Analyzing Vocal Features for Improved Machine Learning-Based Gender Identification </h1>
+<p>
 Brad Buckland<br>
 Talia Frendl<br>
 Triet Huynh<br>
