@@ -64,5 +64,15 @@ From imblearn:
   <li>Seaborn</li>
   <li>os</li>
   <li>matplotlib.pyplot</li>
-  
 </ul>
+
+<h2>Results</h2>
+<p style="color: red;"> 	
+
+What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</p>
+
+<h2>Discussion</h2>
+
+
+<h2>Summary</h2>
+
