@@ -67,6 +67,7 @@ From imblearn:
 </ul>
 
 <h2>Results</h2>
+<span style="color: red;">This text is red</span>
 <p style="color: red;"> 	
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</p>
 </p>
