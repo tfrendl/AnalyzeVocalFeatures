@@ -40,6 +40,7 @@ The dataset includes various spectral, pitch, energy, and cepstral features that
   
 </ul>
 From sklearn, unless otherwise noted:
+
 <ul>
   <li>Models: KNeighborsClassifier, KNeighborsRegressor, LinearRegression, DecisionTreeClassifier, </li>
   <li>Data Preprocessing: StandardScaler, SMOTE (imblearn), RandomOverSampler (imblearn)</li>
@@ -51,8 +52,6 @@ From sklearn, unless otherwise noted:
 <ul>
   <li>KaggleHub</li>
 </ul>
-
-
 
 <h2>Results</h2>
 <i>What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</i>
