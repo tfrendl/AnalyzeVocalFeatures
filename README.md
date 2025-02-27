@@ -67,7 +67,7 @@ From imblearn:
 </ul>
 
 <h2>Results</h2>
-*What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?*
+<i>What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</i>
 
 <h2>Discussion</h2>
 
