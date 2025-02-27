@@ -67,9 +67,9 @@ From imblearn:
 </ul>
 
 <h2>Results</h2>
-<font color="red"> 	
+<p style="color: red;"> 	
 What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</p>
-</font>
+</p>
 <h2>Discussion</h2>
 
 
