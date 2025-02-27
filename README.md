@@ -62,3 +62,5 @@ From sklearn, unless otherwise noted:
 <h2>Summary</h2>
 <i>Most important findings.</i>
 
+<h2>References</h2>
+Najim, M. (2023). Vocal gender features [Data set]. Kaggle. https://www.kaggle.com/datasets/murtadhanajim/vocal-gender-features
