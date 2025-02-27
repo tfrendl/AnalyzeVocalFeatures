@@ -47,7 +47,7 @@ From sklearn, unless otherwise noted:
   <li>Models: KNeighborsClassifier, KNeighborsRegressor, LinearRegression, DecisionTreeClassifier, </li>
   <li>Data Preprocessing: StandardScaler, SMOTE (imblearn), RandomOverSampler (imblearn)</li>
   <li>Evaluation: cross_val_score, GridSearchCV, learning_curve, mean_squared_error, accuracy_score, r2_score, confusion_matrix, classification_report</li>
-  <li>Other:train_test_split</li>
+  <li>Other: train_test_split</li>
 </ul>
 
 <h3>APIs</h3>
