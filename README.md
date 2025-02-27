@@ -70,7 +70,8 @@ From imblearn:
 <i>What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</i>
 
 <h2>Discussion</h2>
-
+<i>What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.</i>
 
 <h2>Summary</h2>
+<i>Most important findings.</i>
 
