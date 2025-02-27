@@ -30,33 +30,6 @@ The dataset includes various spectral, pitch, energy, and cepstral features that
 </p>
 
 <h2>Methods</h2>
-<h3>Materials</h3>
-From sklearn:
-<ul>
-  <li>KNeighborsClassifier</li>
-  <li>KNeighborsRegressor</li>
-  <li>LinearRegression</li>
-  <li>DecisionTreeClassifier</li>
-  <li>StandardScaler</li>
-   <li>train_test_split</li>
-  <li>cross_val_score</li>
-  <li>GridSearchCV</li>
-  <li>learning_curve</li>
-  <li>mean_squared_error</li>
-  <li>accuracy_score</li>
-  <li>r2_score</li>
-  <li>confusion_matrix</li>
-  <li>classification_report</li>
-</ul>
-From imblearn:
-<ul>
-  <li>SMOTE</li>
-  <li>RandomOverSampler</li>
-</ul>
-<h3>APIs</h3>
-<ul>
-  <li>KaggleHub</li>
-</ul>
 <h3>Tools</h3>
 <ul>
   <li>Numpy</li>
@@ -64,7 +37,22 @@ From imblearn:
   <li>Seaborn</li>
   <li>os</li>
   <li>matplotlib.pyplot</li>
+  
 </ul>
+From sklearn, unless otherwise noted:
+<ul>
+  <li>Models: KNeighborsClassifier, KNeighborsRegressor, LinearRegression, DecisionTreeClassifier, </li>
+  <li>Data Preprocessing: StandardScaler, SMOTE (imblearn), RandomOverSampler (imblearn)</li>
+  <li>Evaluation: cross_val_score, GridSearchCV, learning_curve, mean_squared_error, accuracy_score, r2_score, confusion_matrix, classification_report</li>
+  <li>Other:train_test_split</li>
+</ul>
+
+<h3>APIs</h3>
+<ul>
+  <li>KaggleHub</li>
+</ul>
+
+
 
 <h2>Results</h2>
 <i>What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?</i>
